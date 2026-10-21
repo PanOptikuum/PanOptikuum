@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🎨 DoodlebookOS (GOS Plasma Suite): Material 3 Expressive Desktop Experience for KDE Plasma 6 (QML / C++ / Python).   
+
+## 🥗 Caloria (Coming Soon / In Development): Local-first Calorie & Macronutrient Tracker built with Kotlin, Jetpack Compose & Material 3 Expressive for Android.
 
 <!--
 **PanOptikuum/PanOptikuum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
